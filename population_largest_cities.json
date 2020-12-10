@@ -1,0 +1,500 @@
+{
+  "Arnica": {
+    "country": "Arnica",
+    "urban_pop": 50000000.0,
+    "urban_area": 8230.0,
+    "rest_of_country": 1050000000.0
+  },
+  "Brinia": {
+    "country": "Brinia",
+    "urban_pop": 50000000.0,
+    "urban_area": 8230.0,
+    "rest_of_country": 200000000.0
+  },
+  "Tokyo": {
+    "country": "Japan",
+    "urban_pop": 37977000.0,
+    "urban_area": 8230.0,
+    "rest_of_country": 88499461.0
+  },
+  "Delhi": {
+    "country": "India",
+    "urban_pop": 29617000.0,
+    "urban_area": 2232.0,
+    "rest_of_country": 1350387385.0
+  },
+  "Shanghai": {
+    "country": "China",
+    "urban_pop": 22120000.0,
+    "urban_area": 4068.0,
+    "rest_of_country": 1417203776.0
+  },
+  "S\u00e3o Paulo": {
+    "country": "Brazil",
+    "urban_pop": 22046000.0,
+    "urban_area": 3116.0,
+    "rest_of_country": 190513417.0
+  },
+  "Mexico City": {
+    "country": "Mexico",
+    "urban_pop": 20996000.0,
+    "urban_area": 2386.0,
+    "rest_of_country": 107936753.0
+  },
+  "Cairo": {
+    "country": "Egypt",
+    "urban_pop": 19372000.0,
+    "urban_area": 2010.0,
+    "rest_of_country": 82962404.0
+  },
+  "Mumbai": {
+    "country": "India",
+    "urban_pop": 23355000.0,
+    "urban_area": 944.0,
+    "rest_of_country": 1356649385.0
+  },
+  "Beijing": {
+    "country": "China",
+    "urban_pop": 19433000.0,
+    "urban_area": 4172.0,
+    "rest_of_country": 1419890776.0
+  },
+  "Dhaka": {
+    "country": "Bangladesh",
+    "urban_pop": 15443000.0,
+    "urban_area": 456.0,
+    "rest_of_country": 149246383.0
+  },
+  "Osaka": {
+    "country": "Japan",
+    "urban_pop": 14977000.0,
+    "urban_area": 3019.0,
+    "rest_of_country": 111499461.0
+  },
+  "New York City": {
+    "country": "United States",
+    "urban_pop": 20870000.0,
+    "urban_area": 12093.0,
+    "rest_of_country": 310132651.0
+  },
+  "Karachi": {
+    "country": "Pakistan",
+    "urban_pop": 14835000.0,
+    "urban_area": 1044.0,
+    "rest_of_country": 206057340.0
+  },
+  "Buenos Aires": {
+    "country": "Argentina",
+    "urban_pop": 16157000.0,
+    "urban_area": 3221.0,
+    "rest_of_country": 29038774.0
+  },
+  "Chongqing": {
+    "country": "China",
+    "urban_pop": 7739000.0,
+    "urban_area": 1537.0,
+    "rest_of_country": 1431584776.0
+  },
+  "Istanbul": {
+    "country": "Turkey",
+    "urban_pop": 15154000.0,
+    "urban_area": 1375.0,
+    "rest_of_country": 69185067.0
+  },
+  "Kolkata": {
+    "country": "India",
+    "urban_pop": 17560000.0,
+    "urban_area": 1351.0,
+    "rest_of_country": 1362444385.0
+  },
+  "Manila": {
+    "country": "Philippines",
+    "urban_pop": 23088000.0,
+    "urban_area": 1873.0,
+    "rest_of_country": 86493078.0
+  },
+  "Lagos": {
+    "country": "Nigeria",
+    "urban_pop": 15279000.0,
+    "urban_area": 1965.0,
+    "rest_of_country": 190860589.0
+  },
+  "Rio de Janeiro": {
+    "country": "Brazil",
+    "urban_pop": 12272000.0,
+    "urban_area": 1912.0,
+    "rest_of_country": 200287417.0
+  },
+  "Tianjin": {
+    "country": "China",
+    "urban_pop": 10800000.0,
+    "urban_area": 2813.0,
+    "rest_of_country": 1428523776.0
+  },
+  "Kinshasa": {
+    "country": "DR Congo",
+    "urban_pop": 13528000.0,
+    "urban_area": 473.0,
+    "rest_of_country": 76033403.0
+  },
+  "Guangzhou": {
+    "country": "China",
+    "urban_pop": 20902000.0,
+    "urban_area": 4342.0,
+    "rest_of_country": 1418421776.0
+  },
+  "Los Angeles": {
+    "country": "United States",
+    "urban_pop": 15402000.0,
+    "urban_area": 6351.0,
+    "rest_of_country": 315600651.0
+  },
+  "Moscow": {
+    "country": "Russia",
+    "urban_pop": 17125000.0,
+    "urban_area": 5891.0,
+    "rest_of_country": 128809462.0
+  },
+  "Shenzhen": {
+    "country": "China",
+    "urban_pop": 15929000.0,
+    "urban_area": 1803.0,
+    "rest_of_country": 1423394776.0
+  },
+  "Lahore": {
+    "country": "Pakistan",
+    "urban_pop": 11021000.0,
+    "urban_area": 853.0,
+    "rest_of_country": 209871340.0
+  },
+  "Bangalore": {
+    "country": "India",
+    "urban_pop": 13707000.0,
+    "urban_area": 1205.0,
+    "rest_of_country": 1366297385.0
+  },
+  "Paris": {
+    "country": "France",
+    "urban_pop": 11020000.0,
+    "urban_area": 2509.0,
+    "rest_of_country": 54253511.0
+  },
+  "Bogot\u00e1": {
+    "country": "Colombia",
+    "urban_pop": 9464000.0,
+    "urban_area": 584.0,
+    "rest_of_country": 41418891.0
+  },
+  "Jakarta": {
+    "country": "Indonesia",
+    "urban_pop": 34540000.0,
+    "urban_area": 3540.0,
+    "rest_of_country": 238983615.0
+  },
+  "Chennai": {
+    "country": "India",
+    "urban_pop": 11324000.0,
+    "urban_area": 1049.0,
+    "rest_of_country": 1368680385.0
+  },
+  "Lima": {
+    "country": "Peru",
+    "urban_pop": 9848000.0,
+    "urban_area": 890.0,
+    "rest_of_country": 23123854.0
+  },
+  "Bangkok": {
+    "country": "Thailand",
+    "urban_pop": 17066000.0,
+    "urban_area": 3199.0,
+    "rest_of_country": 52733978.0
+  },
+  "Seoul": {
+    "country": "South Korea",
+    "urban_pop": 21794000.0,
+    "urban_area": 2768.0,
+    "rest_of_country": 29475185.0
+  },
+  "Nagoya": {
+    "country": "Japan",
+    "urban_pop": 9113000.0,
+    "urban_area": 3704.0,
+    "rest_of_country": 117363461.0
+  },
+  "Hyderabad": {
+    "country": "India",
+    "urban_pop": 9746000.0,
+    "urban_area": 1273.0,
+    "rest_of_country": 1370258385.0
+  },
+  "London": {
+    "country": "United Kingdom",
+    "urban_pop": 10979000.0,
+    "urban_area": 1739.0,
+    "rest_of_country": 56907011.0
+  },
+  "Tehran": {
+    "country": "Iran",
+    "urban_pop": 13633000.0,
+    "urban_area": 1704.0,
+    "rest_of_country": 70359949.0
+  },
+  "Chicago": {
+    "country": "United States",
+    "urban_pop": 9014000.0,
+    "urban_area": 7006.0,
+    "rest_of_country": 321988651.0
+  },
+  "Chengdu": {
+    "country": "China",
+    "urban_pop": 11309000.0,
+    "urban_area": 1828.0,
+    "rest_of_country": 1428014776.0
+  },
+  "Nanjing": {
+    "country": "China",
+    "urban_pop": 7496000.0,
+    "urban_area": 1613.0,
+    "rest_of_country": 1431827776.0
+  },
+  "Wuhan": {
+    "country": "China",
+    "urban_pop": 8962000.0,
+    "urban_area": 1646.0,
+    "rest_of_country": 1430361776.0
+  },
+  "Ho Chi Minh City": {
+    "country": "Vietnam",
+    "urban_pop": 13312000.0,
+    "urban_area": 1638.0,
+    "rest_of_country": 84026579.0
+  },
+  "Luanda": {
+    "country": "Angola",
+    "urban_pop": 8417000.0,
+    "urban_area": 1023.0,
+    "rest_of_country": 24449272.0
+  },
+  "Ahmedabad": {
+    "country": "India",
+    "urban_pop": 7410000.0,
+    "urban_area": 359.0,
+    "rest_of_country": 1372594385.0
+  },
+  "Kuala Lumpur": {
+    "country": "Malaysia",
+    "urban_pop": 8285000.0,
+    "urban_area": 2162.0,
+    "rest_of_country": 24080999.0
+  },
+  "Xi'an": {
+    "country": "China",
+    "urban_pop": 7135000.0,
+    "urban_area": 1088.0,
+    "rest_of_country": 1432188776.0
+  },
+  "Hong Kong": {
+    "country": "China",
+    "urban_pop": 7347000.0,
+    "urban_area": 291.0,
+    "rest_of_country": 1431976776.0
+  },
+  "Dongguan": {
+    "country": "China",
+    "urban_pop": 7981000.0,
+    "urban_area": 1755.0,
+    "rest_of_country": 1431342776.0
+  },
+  "Hangzhou": {
+    "country": "China",
+    "urban_pop": 6446000.0,
+    "urban_area": 1446.0,
+    "rest_of_country": 1432877776.0
+  },
+  "Foshan": {
+    "country": "China",
+    "urban_pop": null,
+    "urban_area": null,
+    "rest_of_country": null
+  },
+  "Shenyang": {
+    "country": "China",
+    "urban_pop": 7105000.0,
+    "urban_area": 1515.0,
+    "rest_of_country": 1432218776.0
+  },
+  "Riyadh": {
+    "country": "Saudi Arabia",
+    "urban_pop": 6881000.0,
+    "urban_area": 1672.0,
+    "rest_of_country": 27932871.0
+  },
+  "Baghdad": {
+    "country": "Iraq",
+    "urban_pop": 5796000.0,
+    "urban_area": 693.0,
+    "rest_of_country": 34426493.0
+  },
+  "Santiago": {
+    "country": "Chile",
+    "urban_pop": 7007000.0,
+    "urban_area": 1148.0,
+    "rest_of_country": 12109201.0
+  },
+  "Surat": {
+    "country": "India",
+    "urban_pop": 5807000.0,
+    "urban_area": 238.0,
+    "rest_of_country": 1374197385.0
+  },
+  "Madrid": {
+    "country": "Spain",
+    "urban_pop": 6026000.0,
+    "urban_area": 1365.0,
+    "rest_of_country": 40728778.0
+  },
+  "Suzhou": {
+    "country": "China",
+    "urban_pop": 5250000.0,
+    "urban_area": 1373.0,
+    "rest_of_country": 1434073776.0
+  },
+  "Pune": {
+    "country": "India",
+    "urban_pop": 7764000.0,
+    "urban_area": 649.0,
+    "rest_of_country": 1372240385.0
+  },
+  "Harbin": {
+    "country": "China",
+    "urban_pop": 4458000.0,
+    "urban_area": 670.0,
+    "rest_of_country": 1434865776.0
+  },
+  "Houston": {
+    "country": "United States",
+    "urban_pop": 6406000.0,
+    "urban_area": 4930.0,
+    "rest_of_country": 324596651.0
+  },
+  "Dallas": {
+    "country": "United States",
+    "urban_pop": 6830000.0,
+    "urban_area": 5279.0,
+    "rest_of_country": 324172651.0
+  },
+  "Toronto": {
+    "country": "Canada",
+    "urban_pop": 6871000.0,
+    "urban_area": 2334.0,
+    "rest_of_country": 30871154.0
+  },
+  "Dar es Salaam": {
+    "country": "Tanzania",
+    "urban_pop": 6698000.0,
+    "urban_area": 604.0,
+    "rest_of_country": 53036218.0
+  },
+  "Miami": {
+    "country": "United States",
+    "urban_pop": 6144000.0,
+    "urban_area": 3313.0,
+    "rest_of_country": 324858651.0
+  },
+  "Belo Horizonte": {
+    "country": "Brazil",
+    "urban_pop": 5159000.0,
+    "urban_area": 1288.0,
+    "rest_of_country": 207400417.0
+  },
+  "Singapore": {
+    "country": "Singapore",
+    "urban_pop": 5745000.0,
+    "urban_area": 523.0,
+    "rest_of_country": 105342.0
+  },
+  "Philadelphia": {
+    "country": "United States",
+    "urban_pop": 5684000.0,
+    "urban_area": 5430.0,
+    "rest_of_country": 325318651.0
+  },
+  "Atlanta": {
+    "country": "United States",
+    "urban_pop": 5361000.0,
+    "urban_area": 7400.0,
+    "rest_of_country": 325641651.0
+  },
+  "Fukuoka": {
+    "country": "Japan",
+    "urban_pop": 2128000.0,
+    "urban_area": 504.0,
+    "rest_of_country": 124348461.0
+  },
+  "Khartoum": {
+    "country": "Sudan",
+    "urban_pop": 7282000.0,
+    "urban_area": 1031.0,
+    "rest_of_country": 36567260.0
+  },
+  "Barcelona": {
+    "country": "Spain",
+    "urban_pop": 4588000.0,
+    "urban_area": 1072.0,
+    "rest_of_country": 42166778.0
+  },
+  "Johannesburg": {
+    "country": "South Africa",
+    "urban_pop": 9505000.0,
+    "urban_area": 2542.0,
+    "rest_of_country": 49803690.0
+  },
+  "Saint Petersburg": {
+    "country": "Russia",
+    "urban_pop": 5230000.0,
+    "urban_area": 1372.0,
+    "rest_of_country": 140704462.0
+  },
+  "Qingdao": {
+    "country": "China",
+    "urban_pop": 5911000.0,
+    "urban_area": 1656.0,
+    "rest_of_country": 1433412776.0
+  },
+  "Dalian": {
+    "country": "China",
+    "urban_pop": 3776000.0,
+    "urban_area": 988.0,
+    "rest_of_country": 1435547776.0
+  },
+  "Washington, D.C.": {
+    "country": "United States",
+    "urban_pop": 7518000.0,
+    "urban_area": 5500.0,
+    "rest_of_country": 323484651.0
+  },
+  "Yangon": {
+    "country": "Myanmar",
+    "urban_pop": 6314000.0,
+    "urban_area": 603.0,
+    "rest_of_country": 48095800.0
+  },
+  "Alexandria": {
+    "country": "Egypt",
+    "urban_pop": 4318000.0,
+    "urban_area": 292.0,
+    "rest_of_country": 98016404.0
+  },
+  "Jinan": {
+    "country": "China",
+    "urban_pop": 4026000.0,
+    "urban_area": 797.0,
+    "rest_of_country": 1435297776.0
+  },
+  "Guadalajara": {
+    "country": "Mexico",
+    "urban_pop": 5253000.0,
+    "urban_area": 810.0,
+    "rest_of_country": 123679753.0
+  }
+}

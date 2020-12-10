@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_fa4ec19db32840be83ad079452185d76 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_fa4ec19db32840be83ad079452185d76" ></div>
+        
+</body>
+<script>    
+    
+            var map_fa4ec19db32840be83ad079452185d76 = L.map(
+                "map_fa4ec19db32840be83ad079452185d76",
+                {
+                    center: [0.0, 0.0],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 3,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_e96c98bfcdc748c096923f676596fa92 = L.tileLayer(
+                "https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"http://cartodb.com/attributions\"\u003eCartoDB\u003c/a\u003e, CartoDB \u003ca href =\"http://cartodb.com/attributions\"\u003eattributions\u003c/a\u003e", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_fa4ec19db32840be83ad079452185d76);
+        
+    
+            var circle_marker_83680ee8d37f4cee8d134103a7a45a9f = L.circleMarker(
+                [33.3152, 44.3661],
+                {"bubblingMouseEvents": true, "color": "#FF6347", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#FF6347", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 120.667479, "stroke": true, "weight": 3}
+            ).addTo(map_fa4ec19db32840be83ad079452185d76);
+        
+    
+        var popup_9035e87a45894affb167e37cbd08065f = L.popup({"maxWidth": "100%"});
+
+        
+            var html_451981c144da49ffb49a86a24309b5fe = $(`<div id="html_451981c144da49ffb49a86a24309b5fe" style="width: 100.0%; height: 100.0%;">Baghdad</div>`)[0];
+            popup_9035e87a45894affb167e37cbd08065f.setContent(html_451981c144da49ffb49a86a24309b5fe);
+        
+
+        circle_marker_83680ee8d37f4cee8d134103a7a45a9f.bindPopup(popup_9035e87a45894affb167e37cbd08065f)
+        ;
+
+        
+    
+    
+            var circle_marker_c9b196bdd3324160a00b8a495c886403 = L.circleMarker(
+                [13.0827, 80.2707],
+                {"bubblingMouseEvents": true, "color": "#FF6347", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#FF6347", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 150.6674, "stroke": true, "weight": 3}
+            ).addTo(map_fa4ec19db32840be83ad079452185d76);
+        
+    
+        var popup_bbaafe8d9baa42bbb24e7e63509c793c = L.popup({"maxWidth": "100%"});
+
+        
+            var html_01bdde4d53104e9abd18a809a43fa124 = $(`<div id="html_01bdde4d53104e9abd18a809a43fa124" style="width: 100.0%; height: 100.0%;">Chennai</div>`)[0];
+            popup_bbaafe8d9baa42bbb24e7e63509c793c.setContent(html_01bdde4d53104e9abd18a809a43fa124);
+        
+
+        circle_marker_c9b196bdd3324160a00b8a495c886403.bindPopup(popup_bbaafe8d9baa42bbb24e7e63509c793c)
+        ;
+
+        
+    
+    
+            var circle_marker_d16512bd6bf94eddb91ae4e38f106090 = L.circleMarker(
+                [3.139, 101.6869],
+                {"bubblingMouseEvents": true, "color": "#FF6347", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#FF6347", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 97.09799699999999, "stroke": true, "weight": 3}
+            ).addTo(map_fa4ec19db32840be83ad079452185d76);
+        
+    
+        var popup_1d53f4a21383494f81eaadad7651bd22 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_aeaf82bde852416dbc1061ea3b6181d1 = $(`<div id="html_aeaf82bde852416dbc1061ea3b6181d1" style="width: 100.0%; height: 100.0%;">Kuala Lumpur</div>`)[0];
+            popup_1d53f4a21383494f81eaadad7651bd22.setContent(html_aeaf82bde852416dbc1061ea3b6181d1);
+        
+
+        circle_marker_d16512bd6bf94eddb91ae4e38f106090.bindPopup(popup_1d53f4a21383494f81eaadad7651bd22)
+        ;
+
+        
+    
+    
+            var circle_marker_dbacc300999c46d2a61cef82e3d425e5 = L.circleMarker(
+                [24.7136, 46.6753],
+                {"bubblingMouseEvents": true, "color": "#FF6347", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#FF6347", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 104.441613, "stroke": true, "weight": 3}
+            ).addTo(map_fa4ec19db32840be83ad079452185d76);
+        
+    
+        var popup_2343f101c8b547b1825a5437a3c027c9 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_90aa59afec184799a2ec9baa9ec3a93b = $(`<div id="html_90aa59afec184799a2ec9baa9ec3a93b" style="width: 100.0%; height: 100.0%;">Riyadh</div>`)[0];
+            popup_2343f101c8b547b1825a5437a3c027c9.setContent(html_90aa59afec184799a2ec9baa9ec3a93b);
+        
+
+        circle_marker_dbacc300999c46d2a61cef82e3d425e5.bindPopup(popup_2343f101c8b547b1825a5437a3c027c9)
+        ;
+
+        
+    
+    
+            var circle_marker_78d49a0f351547b1be88483dcafd9350 = L.circleMarker(
+                [43.6532, -79.3832],
+                {"bubblingMouseEvents": true, "color": "#FF6347", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#FF6347", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 113.22646199999998, "stroke": true, "weight": 3}
+            ).addTo(map_fa4ec19db32840be83ad079452185d76);
+        
+    
+        var popup_959034b36417453c89f44d826b31ecfe = L.popup({"maxWidth": "100%"});
+
+        
+            var html_6d22fc6b51ac49ef949e2a965300c101 = $(`<div id="html_6d22fc6b51ac49ef949e2a965300c101" style="width: 100.0%; height: 100.0%;">Toronto</div>`)[0];
+            popup_959034b36417453c89f44d826b31ecfe.setContent(html_6d22fc6b51ac49ef949e2a965300c101);
+        
+
+        circle_marker_78d49a0f351547b1be88483dcafd9350.bindPopup(popup_959034b36417453c89f44d826b31ecfe)
+        ;
+
+        
+    
+</script>
